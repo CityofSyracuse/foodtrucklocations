@@ -1,1 +1,1 @@
-"# foodtrucklocations" 
+# foodtrucklocations
